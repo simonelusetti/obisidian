@@ -156,13 +156,57 @@ There are two types of Clashes, Major and Minor ones, representing low stakes co
 
 >**Designers' Note:** This game is many things, but a simulation of reality isn’t one of them. There’s no real concept of space in Clashes, no weapon ranges, ammunition or cover. However, there are rules that abstract away these concept: the Flying effect (for example) means you can only be attacked by characters that has Flying or Range. But having Flying won’t give you a Flying speed, tell you how you move in space, rules for takeoff and landing. In general, in this game the rules never touch the narrative world directly, interacting only with other rules
 
-During your turn in a Clash you are free to do as many actions that do not interact with the rules AND would not require a Roll as you want. These include minor tasks that are not too mentally or mechanically challenging: moving a small distance in the game world, dropping or picking up an object that isn't a Prop or Item, monologuing, and so on. If you try to perform an action that does require a Roll, you can do so but you spend your Action in doing so (regardless of success), of which you get one per turn
+Let's start with a general outline a turn in a Clash and what you can do in it:
+- Breath Step: the moment when your character regains its focus, the following happen in this order
+	- Your Exhausted Items unExhaust
+	- Every character regains their Reaction
+	- You regain your Action
+	- You can Activate a Scene Element
+- Main Step: the main part of the turn where you can do the following in any order
+	- Narrative Actions
+	- Actions
+- End Step: the end of the turn, until end of turn effects stop at the end of this step
 
-However, during your turn you will most often do one of two things: Activate a Scene Element and Attack. Activating a Scene Element means that you put conscious effort to exploit a Trait, Prop or Item to give you an edge in the battle, you can represent this by placing a physical card in front of you in the vertical position. If in a normal Roll you can Improvise using any SE you have access to, during a Clash only the ones you have activated can be Exhausted (see below). This is to represent the rising action of a tense battle, conversation, infiltration and so on, where you gradually build up momentum in the fight
+### Narrative Actions
 
-Attacking is instead the actual application of your skills to defeat your opponent. It may represent a physical attack, but can also stand in for getting deeper into a mansion unseen or getting under someone’s skin while trying to seduce them. To make an Attack you spend your Action and Roll. Every rule that applies during Rolls applies during Attacks, and as always you Roll your relevant Symbol against the relevant Symbol of your opponent. You can use any Scene Element you have activated to aid you in the Attack, but doing so Exhausts them (you can represent this by turning the physical card sideways). An Exhausted Scene Element cannot be used again until your next turn, at the start of which you Unexhaust all Exhausted Scene Elements. By default, every Attack deals 1 Damage
+During your turn in a Clash you are free to do as many actions that do not interact with the rules AND would not require a Roll as you want. These are called Narrative Actions and include minor tasks that are not too mentally or mechanically challenging: 
+- moving a small distance in the game world
+- dropping or picking up an object that isn't a Prop or Item
+- monologuing, joking, talking Non-Tactically to other characters (see below for what Non-Tactically means) 
+You can use Narrative Actions to "dress up" how your character spends the turn for dramatic, comedic or simply narrative effect. You can do as many Narrative Actions a turn you want, just be mindful of everyone's time and try to keep the Clash tense and dynamic
+
+However, being free, Narrative Actions can't be used to do anything that interacts with the rules: you cannot use a Prop you gained in a Narrative Action (this is a specific Action called Controlling, see below), you cannot gain any bonus or advantage, not even disadvantages actually. Simply put: if it touches the rules or mechanics in any way, it cannot be a Narrative Action
+
+Note that Narrative Actions do not use the Stack and so may be done at any moment during one's turn
+## Actions
+
+Actions are the main part of a Clash and represent efforts that take time and energy to execute, that meaningfully push you towards victory, or at least try to. Note that Action refers to two different things: 
+- your Action is a resource you automatically gain during your Breath Step
+- Actions are what we just described, and how you Spend your Action. Each Action costs you one Action 
+
+These are the Main Actions, Actions every character has access to:
+- Attacking another character
+- Studying a character or Clash Prop
+- Controlling a Clash Prop
+- Making a generic Roll
+
+**Attacking:** Attacking the actual application of your skills to defeat your opponent. It may represent a physical attack, but can also stand in for getting deeper into a mansion unseen or getting under someone’s skin while trying to seduce them
+
+Attacks are Rolls, and like any Rolls they follow a narrative move, you are free to present this move however you like. Do you simply swing your hammer at the troll or try more subterfuge strategies like trying to trip them? To get past the guards do you move slowly and carefully or blitz it and hope they don't notice you? Just like any Roll, the way you present your actions will determine which Symbol will be used over which other Symbol
+
+>**Important Note:** To count as an Attack, what you describe must meaningfully push you towards your goal in that Clash. This is to say that trying to talk to an faceless robotic-guard, seducing a dragon while trying to bargain with them, or hitting a guard in the face while sneaking about may, ATDD, not count as Attacks. They will influence the narrative of course, but mind you that not being actual Attacks they will not deal Damage and not work with other rules for Attacks. How to rule general Rolls is described below. In general, each Clash will still have an "obvious" way to deal with it which you can default to: hitting people, sneaking about, just lying at face value
+
+Every rule that applies during Rolls applies during Attacks. You can use any Scene Element you have activated to aid you in the Attack, but doing so Exhausts them (you can represent this by turning the physical card sideways). They unExhaust during the Breath Step. If you succeed on the Attack's Roll you will deal your Base Damage, which by Default is 1
 
 The main reason you might not wanna use a Scene Element while Attacking is that you can use them during an opponent’s turn when they Attack you. If you Exhaust a Scene Element while Defending this way, every BD you would get is transformed into a MD for them. This can be especially useful if you know a particularly dangerous Attack is coming: making the enemy Miss might be more effective than increasing your own chances to Hit during your turn
+
+**Studying:** Studying represents trying to find out something about a particular character or even situation. While not as common as an Action as Attacking, Studying can really make a difference during a Clash, and at times even beyond this singular encounter
+
+To Study you do everything you would while Attacking: choose a target, briefly describe how you try and study them, Exhaust SE, the Defender Exhaust theirs, and then you Roll. However, unlike Attacking you can target individual Scene Elements as well as characters when Studying. If you succeed you won't deal any Damage but you learn something about the target
+
+If you specifically indicate what you're trying to learn you gain 1 or 2 BD depending on how specific your inquiry was (it's ATDD to decide this amount). On a success you wi 
+
+However, during your turn you will most often do one of two things: Activate a Scene Element and Attack. Activating a Scene Element means that you put conscious effort to exploit a Trait, Prop or Item to give you an edge in the battle, you can represent this by placing a physical card in front of you in the vertical position. If in a normal Roll you can Improvise using any SE you have access to, during a Clash only the ones you have activated can be Exhausted (see below). This is to represent the rising action of a tense battle, conversation, infiltration and so on, where you gradually build up momentum in the fight
 
 Some Scene Elements require you to be particularly focused and engaged in the Clash to activate: these have an Activation Cost which you must be able to pay to Activate them. To meet these you simply need to have already Active SE with a combined Value equal or greater than the Requirement. Some Items directly tell you how much Value they provide. Unless stated otherwise, SE with no special rules, such as Traits or Props, have a value of 1, which can be also shortened to {add 1}. Some specific SE, mainly Items, can also have abilities that require Value to activate, usually indicated by a number in the costs to activate, such as {2}. To pay for these you must actually Exhaust SE for a combined Value equal or greater to the cost. Excess Value provided is kept until your next turn. See the Item section for more
   

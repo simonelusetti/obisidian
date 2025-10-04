@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magic/edh-decks/Ghryson Starn's High Noon.md",
+                "file": "ttrpg/Core/Characters & Core Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghryson Starn's High Noon"
+              "title": "Characters & Core Rules"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,11 +187,15 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "7abb94e87b23a1c8",
+  "active": "d467cdce109d697e",
   "lastOpenFiles": [
+    "ttrpg/Core/Items.md",
+    "ttrpg/Additions/Additional Rules.md",
+    "ttrpg/Additions/Peculiar Items.md",
+    "ttrpg/Core/Characters & Core Rules.md",
+    "magic/edh-decks/Ghryson Starn's High Noon.md",
     "magic/edh-decks/Magnus Biden Blast.md",
     "magic/edh-decks/Radha Ramp.md",
-    "magic/edh-decks/Ghryson Starn's High Noon.md",
     "magic/edh-decks/Clavileno Sac.md",
     "magic/edh-decks/Yuriko Stabs Everyone.md",
     "magic/edh-decks/Untitled",
@@ -198,7 +203,6 @@
     "magic/edh-decks",
     "personal/daily-notes/2025-10-04.md",
     "personal/daily-notes/2025-10-03.md",
-    "ttrpg/Core/Items.md",
     "magic/custom/Cards.md",
     "phd/Amministrazione/Individual Study Plani.md",
     "phd/Amministrazione/tesserino.jpg",
@@ -222,9 +226,6 @@
     "phd/Notes/General/Manifold Latent Spaces.md",
     "phd/Notes/General/Disentanglement.md",
     "phd/Notes/Probability/Bayesian vs Classical view.md",
-    "phd/Notes/Probability/Basics.md",
-    "phd/Notes/Probability/Entropy, KL Distance & Information Bottleneck.md",
-    "phd/Notes/Probability/Log Trick and Reinforce.md",
     "phd/Courses/english-4-sciencitifc-writing-ll4",
     "phd/Amministrazione/ACDL/Certificato.jpeg",
     "phd/Amministrazione/ACDL/Scontrini.jpeg",
