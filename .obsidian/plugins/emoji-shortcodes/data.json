@@ -1,0 +1,18 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":crescent_moon:",
+    ":red_square:",
+    ":shopping_cart:",
+    ":question:",
+    ":brain:",
+    ":desktop_computer:",
+    ":gear:",
+    ":bulb:",
+    ":no_entry_sign:",
+    ":rooster:"
+  ]
+}

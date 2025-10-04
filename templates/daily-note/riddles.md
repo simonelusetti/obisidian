@@ -1,0 +1,240 @@
+- Q: What has keys but can’t open locks? | A: A piano
+- Q: The more of me you take, the more you leave behind. | A: Footsteps
+- Q: What gets wetter the more it dries? | A: A towel
+- Q: What has a head, a tail, is brown, and has no legs? | A: A penny
+- Q: What comes once in a minute, twice in a moment, but never in a thousand years? | A: The letter M
+- Q: The more you take out of me, the bigger I get. | A: A hole
+- Q: What can travel around the world while staying in a corner? | A: A stamp
+- Q: I’m tall when I’m young and short when I’m old. | A: A candle
+- Q: The more you share me, the less I become. What am I? | A: A secret
+- Q: What has to be broken before you can use it? | A: An egg
+- Q: I’m always in front of you but can’t be seen. | A: The future
+- Q: What runs but never walks, has a mouth but never talks? | A: A river
+- Q: I have branches but no fruit, trunk, or leaves. | A: A bank
+- Q: What is so fragile that saying its name breaks it? | A: Silence
+- Q: I’m light as a feather, yet the strongest person can’t hold me long. | A: Breath
+- Q: What begins with T, ends with T, and has T inside? | A: A teapot
+- Q: Forward I’m heavy, backward I’m not. | A: The word “ton”
+- Q: What is full of holes but still holds water? | A: A sponge
+- Q: The more you take, the more you leave behind. | A: Footsteps
+- Q: What has one eye but can’t see? | A: A needle
+- Q: What has hands but can’t clap? | A: A clock
+- Q: If you drop me I crack, but give me a smile and I’ll smile back. | A: A mirror
+- Q: What has an endless supply of letters but starts empty? | A: A mailbox
+- Q: What word is spelled incorrectly in every dictionary? | A: Incorrectly
+- Q: What belongs to you but is used more by others? | A: Your name
+- Q: What gets bigger the more you take away from it? | A: A hole
+- Q: What has many teeth but can’t bite? | A: A comb
+- Q: I go up and down but never move. | A: Stairs
+- Q: What has one head, one foot, and four legs? | A: A bed
+- Q: I’m not alive, but I can grow; I have no mouth, but I need air. | A: Fire
+- Q: What has an ear but cannot hear? | A: A cornfield
+- Q: I fly without wings. I cry without eyes. | A: A cloud
+- Q: What comes down but never goes up? | A: Rain
+- Q: If you have me, you want to share me. If you share me, you don’t have me. | A: A secret
+- Q: The more you take from me, the bigger I get. | A: A hole
+- Q: What goes up but never comes down? | A: Your age
+- Q: I’m always running, but I never move. | A: Time
+- Q: What kind of band never plays music? | A: A rubber band
+- Q: What has a thumb and four fingers but isn’t alive? | A: A glove
+- Q: What invention lets you look right through a wall? | A: A window
+- Q: What gets sharper the more you use it? | A: Your brain
+- Q: What comes at night without being called and disappears by day without being stolen? | A: The stars
+- Q: What is always in front of you but can’t be touched? | A: The future
+- Q: What is easy to lift but hard to throw? | A: A feather
+- Q: I’m always hungry, I must always be fed. | A: Fire
+- Q: What has cities but no houses, forests but no trees, and water but no fish? | A: A map
+- Q: What has a bottom at the top? | A: Your legs
+- Q: What runs all around a backyard yet never moves? | A: A fence
+- Q: What can you catch but not throw? | A: A cold
+- Q: What has words but never speaks? | A: A book
+- Q: What can you break, even if you never pick it up? | A: A promise
+- Q: I’m always ahead of you, but you cannot see me. | A: The future
+- Q: What goes through cities and fields but never moves? | A: A road
+- Q: What has four wheels and flies? | A: A garbage truck
+- Q: What can’t be put in a saucepan? | A: Its lid
+- Q: What kind of coat is put on only when wet? | A: A coat of paint
+- Q: What comes twice in a week, once in a year, but never in a day? | A: The letter E
+- Q: What starts with P, ends with E, and has thousands of letters? | A: The post office
+- Q: What has a bed but never sleeps? | A: A river
+- Q: What is always coming but never arrives? | A: Tomorrow
+- Q: I’m taken from a mine, locked up in a wooden case, and used by students. | A: Pencil lead
+- Q: What type of building has the most stories? | A: A library
+- Q: What has many keys but can’t open a single door? | A: A piano
+- Q: What can fill a room but takes up no space? | A: Light
+- Q: What flies without wings and is invisible? | A: Time
+- Q: What has many rings but no fingers? | A: A tree
+- Q: What gets lighter the more you take away? | A: A hole
+- Q: What can run but never walks, murmurs but never talks? | A: A brook
+- Q: What is always in the past but never in the present? | A: History
+- Q: I am full of holes but can still hold a lot. | A: A net
+- Q: What can be cracked, made, told, and played? | A: A joke
+- Q: What is always right but never left? | A: A compass
+- Q: What gets whiter the dirtier it gets? | A: A chalkboard
+- Q: What starts with an E, ends with an E, and only has one letter? | A: An envelope
+- Q: The more you take me apart, the greater I become. | A: A puzzle
+- Q: What begins and ends with an E but contains only one letter? | A: An envelope
+- Q: I go around the world but always stay in a corner. | A: A stamp
+- Q: What has a face but no eyes, mouth, or nose? | A: A clock
+- Q: What comes in through the window but is not seen? | A: Air
+- Q: What has no beginning, end, or middle? | A: A circle
+- Q: What is so light even a feather can’t hold it? | A: A bubble
+- Q: The person who makes me, sells me. The person who buys me, never uses me. | A: A coffin
+- Q: What’s black when clean and white when dirty? | A: A chalkboard
+- Q: What goes up white and comes down yellow? | A: An egg yolk (boiled)
+- Q: What has 13 hearts but no organs? | A: A deck of cards
+- Q: What goes up and never comes down? | A: Your age
+- Q: The more you use me, the sharper I get. | A: Your brain
+- Q: What moves without seeing and cries without eyes? | A: A cloud
+- Q: What has a ring but no finger? | A: A telephone
+- Q: What is always behind but soon in front? | A: The future
+- Q: What flies forever, rests never? | A: Time
+- Q: What has one voice, goes on four legs in the morning, two at noon, and three in the evening? | A: A human (the Sphinx’s riddle)
+- Q: What runs but cannot walk, whispers but never talks, has a bed but never sleeps? | A: A river
+- Q: What is always moving but never alive? | A: Time
+- Q: I’m not alive, but I die if you don’t feed me. | A: Fire
+- Q: What comes without being called and disappears when not wanted? | A: Sleep
+- Q: What is full of holes but holds things? | A: A net
+- Q: What has a neck but no head? | A: A bottle
+- Q: What has one head, one foot, and four legs? | A: A bed
+- Q: What has an endless supply of letters but starts empty? | A: A mailbox
+- Q: What goes up when the rain comes down? | A: An umbrella
+- Q: What kind of tree can you carry in your hand? | A: A palm
+- Q: What has four legs in the morning, two at noon, and three in the evening? | A: A human (classic Sphinx riddle)
+- Q: What tastes better than it smells? | A: A tongue
+- Q: What can be seen once in a year, twice in a week, and never in a day? | A: The letter E
+- Q: What kind of room has no doors or windows? | A: A mushroom
+- Q: What is always on the ground but never gets dirty? | A: A shadow
+- Q: What has a mouth but doesn’t eat, and a bank but no money? | A: A river
+- Q: What has a bark but no bite? | A: A tree
+- Q: What type of cup cannot hold water? | A: A hiccup
+- Q: What has roots that nobody sees, is taller than trees, and never grows? | A: A mountain
+- Q: What comes at the end of everything? | A: The letter G
+- Q: What is always in season but never out of style? | A: A calendar
+- Q: What has two hands but can’t hold anything? | A: A clock
+- Q: What’s easy to get into but hard to get out of? | A: Trouble
+- Q: What has an eye but cannot see and spins all day? | A: A hurricane
+- Q: What kind of ship has two mates but no captain? | A: A relationship
+- Q: What has a spine but no bones? | A: A book
+- Q: What is always ahead but can never be seen? | A: The future
+- Q: What kind of cup is best for a race? | A: A cup of coffee (to wake up)
+- Q: What has rings but no finger? | A: A telephone
+- Q: What’s always answered without being questioned? | A: A doorbell
+- Q: What has an endless appetite, must always be fed, but dies if it drinks water? | A: Fire
+- Q: What kind of band never makes music? | A: A rubber band
+- Q: What has a crown but no king? | A: A tooth
+- Q: What can you hold without ever touching? | A: A conversation
+- Q: What has many horns but cannot honk? | A: A herd of cows
+- Q: What has legs but doesn’t walk? | A: A table
+- Q: What runs but never gets tired? | A: A river
+- Q: What has a lock but no key? | A: Hair
+- Q: What has a body and a tail but no head? | A: A coin
+- Q: What can’t talk but will reply when spoken to? | A: An echo
+- Q: What has a ring but no finger, and you answer it? | A: A phone
+- Q: What is never seen but is always coming? | A: Tomorrow
+- Q: What has a hole in the middle yet is strong enough to hold a wheel? | A: A donut
+- Q: What has one eye, is round, and travels fast? | A: A cyclone
+- Q: What falls but never hits the ground? | A: The temperature
+- Q: What has hundreds of stories but can’t tell one? | A: A skyscraper
+- Q: What comes in different colors but is always invisible when dark? | A: A rainbow
+- Q: What has teeth but no mouth and cuts things? | A: A saw
+- Q: What can be cracked, told, made, and played? | A: A joke
+- Q: What has no bones but can be strong enough to support you? | A: A rope
+- Q: What is black when bought, red when used, and gray when thrown away? | A: Charcoal
+- Q: What can’t walk but always runs downhill? | A: Water
+- Q: What comes with wings but cannot fly? | A: A building’s wings
+- Q: What is always hot even when it’s cold? | A: Chili peppers
+- Q: What has a bed but never sleeps and a mouth but never eats? | A: A river
+- Q: What is light as a feather, but even the world’s strongest man couldn’t hold it for much longer than a minute? | A: Breath
+- Q: What begins with everything but ends with nothing? | A: The word "everything"
+- Q: What gets clearer the more you use it? | A: Your brain (or knowledge)
+- Q: What has teeth but never chews? | A: A zipper
+- Q: What can you serve but never eat? | A: A tennis ball
+- Q: What kind of room can’t you enter? | A: A mushroom
+- Q: What has an eye but no vision, and a storm but no anger? | A: A hurricane
+- Q: What can fly without wings and sting without being alive? | A: Time
+- Q: What is always in bed but never sleeps? | A: A riverbed
+- Q: What has a shell but no core? | A: A peanut
+- Q: What gets bigger the more you remove? | A: A hole
+- Q: What do you call a bear without teeth? | A: A gummy bear
+- Q: What comes up but never grows? | A: A balloon
+- Q: What has a horn but isn’t an animal? | A: A car
+- Q: What runs but doesn’t sweat? | A: A refrigerator
+- Q: What goes up but stays in one place? | A: An elevator
+- Q: What has roots that you cannot see, and is taller than trees? | A: A mountain
+- Q: What has no beginning and no end? | A: A circle
+- Q: What has bark but isn’t a dog? | A: A tree
+- Q: What can be long or short, and can grow but isn’t alive? | A: Hair
+- Q: What has a head but no neck, and wears a cap? | A: A bottle
+- Q: What has one eye but cannot see and moves constantly? | A: A needle
+- Q: What is always in motion but never leaves its place? | A: A clock
+- Q: What kind of table can’t you eat on? | A: A timetable
+- Q: What gets broken just by speaking its name? | A: Silence
+- Q: What has a mouth but cannot smile? | A: A cave
+- Q: What can fill a house but takes up no space? | A: Light
+- Q: What has fingers but no hand? | A: Gloves
+- Q: What kind of key opens no doors? | A: A monkey
+- Q: What is cut but never bleeds? | A: A deck of cards
+- Q: What has no eyes but can still cry? | A: A cloud
+- Q: What loses its head in the morning and gets it back at night? | A: A pillow
+- Q: What has one horn and gives milk? | A: A milk truck
+- Q: What runs all day and never stops? | A: A clock
+- Q: What word becomes shorter when you add two letters to it? | A: Short
+- Q: What comes down without going up? | A: Rain
+- Q: What has four fingers and a thumb but is not a hand? | A: A glove
+- Q: What has 28 days? | A: All months
+- Q: What grows when it eats but dies when it drinks? | A: Fire
+- Q: What has a heart but no other organs? | A: An artichoke
+- Q: What has a head and a tail but nothing else? | A: A coin
+- Q: What has words but cannot read them? | A: A dictionary
+- Q: What can cross water without getting wet? | A: Light
+- Q: What has wings but can’t fly and is red all over? | A: A house with a red roof
+- Q: What has a bow but no arrows? | A: A violin
+- Q: What has to be opened before you can use it? | A: An egg
+- Q: What has branches but no trunk or leaves? | A: A bank
+- Q: What grows up while growing down? | A: A goose feather (down)
+- Q: What can go through glass without breaking it? | A: Light
+- Q: What has a bottom at the top? | A: Your legs
+- Q: What has no sound until you call it? | A: An echo
+- Q: What falls in winter but never gets hurt? | A: Snow
+- Q: What is tall when young and short when old? | A: A candle
+- Q: What can’t be used until it’s cracked? | A: An egg
+- Q: What comes before thunder? | A: Lightning
+- Q: What has an endless supply of numbers? | A: A calculator
+- Q: What breaks and never falls, and what falls and never breaks? | A: Day breaks, night falls
+- Q: What is always right side up no matter how you turn it? | A: The number 8
+- Q: What can’t move until you push it, but once started never stops? | A: A domino chain
+- Q: What has four legs in the morning, four legs in the afternoon, and four legs at night? | A: A table
+- Q: What has pages but isn’t alive? | A: A book
+- Q: What goes around the world and comes back again? | A: The moon
+- Q: What can you catch but not throw? | A: A cold
+- Q: What never asks questions but gets answered all the time? | A: A phone
+- Q: What goes up and down without moving? | A: A staircase
+- Q: What is always hungry and must be fed? | A: Fire
+- Q: What runs but has no legs? | A: Water
+- Q: What has eyes but can’t see and hides underground? | A: A potato
+- Q: What has feathers but can’t fly and swims instead? | A: A penguin
+- Q: What grows shorter as it gets older? | A: A candle
+- Q: What has two hands but no arms? | A: A clock
+- Q: What can be written, spoken, broken, and bent? | A: A word
+- Q: What has two wheels but can’t move without you? | A: A bicycle
+- Q: What comes after Friday and before Sunday? | A: Saturday
+- Q: What belongs to you but is used by everyone else? | A: Your name
+- Q: What goes in dry and comes out wet, giving pleasure all around? | A: A tea bag
+- Q: What can’t be seen but can be felt, and can move ships and trees? | A: The wind
+- Q: What is full of holes and can float on water? | A: A sponge
+- Q: What is easy to pick up but hard to throw away? | A: A habit
+- Q: What has no weight but can sink a ship? | A: A hole
+- Q: What has stripes but no clothes? | A: A zebra
+- Q: What flies but isn’t alive, and moves silently? | A: Time
+- Q: What has a door but no lock, and opens without a key? | A: A mouth
+- Q: What always chases but never catches? | A: Your shadow
+- Q: What is invisible but can be broken by a word? | A: Trust
+- Q: What has a string but no bow? | A: A kite
+- Q: What can go up a chimney but can’t go down one? | A: An umbrella (open)
+- Q: What begins and ends with life but has none itself? | A: A coffin
+- Q: What grows while standing still? | A: A tree
+- Q: What never breathes but needs air? | A: A balloon
+- Q: What is white when dirty and black when clean? | A: A chalkboard
+- Q: What is born in water, dies in water, yet moves freely in it? | A: Ice
+- Q: What gets stronger the more you take from it? | A: A hole

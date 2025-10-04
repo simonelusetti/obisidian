@@ -1,0 +1,1 @@
+- Ctrl+Shift+Command+4 -> screenshot automatically to clipboard
