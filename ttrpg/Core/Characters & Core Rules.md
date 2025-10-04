@@ -202,9 +202,11 @@ The main reason you might not wanna use a Scene Element while Attacking is that 
 
 **Studying:** Studying represents trying to find out something about a particular character or even situation. While not as common as an Action as Attacking, Studying can really make a difference during a Clash, and at times even beyond this singular encounter
 
-To Study you do everything you would while Attacking: choose a target, briefly describe how you try and study them, Exhaust SE, the Defender Exhaust theirs, and then you Roll. However, unlike Attacking you can target individual Scene Elements as well as characters when Studying. If you succeed you won't deal any Damage but you learn something about the target
+To Study you do everything you would while Attacking: choose a target, briefly describe how you try and study them, Exhaust SE, the Defender Exhaust theirs, and then you Roll. However, unlike Attacking you can target individual Scene Elements as well as characters when Studying. 
 
-If you specifically indicate what you're trying to learn you gain 1 or 2 BD depending on how specific your inquiry was (it's ATDD to decide this amount). On a success you wi 
+On a success you won't deal any Damage but you learn a Secret about the target. Secrets held by Scene Elements are usually just hidden effects waiting to be revealed, while those held by characters tend to be narrative only. If the target has no Secret left you will also learn that
+
+You can specify what you're trying to learn giving clues and hints you . This is called Investigating and has a few extra rules. Some Secrets can only
 
 However, during your turn you will most often do one of two things: Activate a Scene Element and Attack. Activating a Scene Element means that you put conscious effort to exploit a Trait, Prop or Item to give you an edge in the battle, you can represent this by placing a physical card in front of you in the vertical position. If in a normal Roll you can Improvise using any SE you have access to, during a Clash only the ones you have activated can be Exhausted (see below). This is to represent the rising action of a tense battle, conversation, infiltration and so on, where you gradually build up momentum in the fight
 
