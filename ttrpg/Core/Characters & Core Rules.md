@@ -241,7 +241,17 @@ For these Rolls all rules that normally apply both to Rolls and to Clashes apply
 
 ## Timing Rules
 
+By default, your Actions are Slow, meaning they can only be used during the main step of your own turn. By contrast, there are some effects that are Rapid, meaning they can be used whenever you want. Most of them will expend your Reaction, which is a resource similar to the Action which you gain at the start of each character's turn
 
+**Priority and the Stack:** there will be a lot of situations where the exact timing of effects might seem ambiguous
+
+Item 1 gives your Attacks 1 bonus Damage, then Item 2 doubles your Attacks Damages, how much bonus damage are you getting? Or consider the situation where two different players want to react to the same Action done by another player. To time these effects we use the Stack and Priority
+
+Whenever an effect is being activated or an action taken, in turn order each players gains Priority, meaning they have a chance to use any Rapid effect they have access to. If one does, the same process is repeated restarting from them. In order, these effects are placed into the Stack. If at any point the Priority goes back to the player that last used a Rapid effect the Stack starts to empty, and, it being a stack, the last used effects are applied first
+
+**Triggers Priority:** triggered abilities, AKA effects that automatically activate, also follow Priority and the Stack. If the same event triggers multiple triggered abilities they are placed on the Stack in turn order, if a player controls multiple of them they choose the order. Triggered abilities are placed on the Stack before any Rapid effect used on the same event that triggered them
+
+**Unreactable Abilities:** some abilities are so fast they don't give anyone the chance to react. These effects do not give Priority to any other player and must be resolved before any Rapid effect can be used. Note: triggered abilities still trigger 
 
 >**Designer's note, or an important note on role vs playing and how to marry this bickering lot:** Clashes are obviously a part of the story, in fact they should and usually are their highest points. Every game has to decide where it wants to lie in the spectrum between narrative first and gameplay first. Do design it in a way where the players have basically free reign for the purpose of writing an interesting narrative? Or you do enforce stricter rules so that the gameplay itself is fun and real tension can be felt?
 >
