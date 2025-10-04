@@ -158,7 +158,7 @@ There are two types of Clashes, Major and Minor ones, representing low stakes co
 
 Let's start with a general outline a turn in a Clash and what you can do in it:
 - Breath Step: the moment when your character regains its focus, the following happen in this order
-	- Your Exhausted Items unExhaust
+	- Your Exhausted SE unExhaust
 	- Every character regains their Reaction
 	- You regain your Action
 	- You can Activate a Scene Element
@@ -167,7 +167,20 @@ Let's start with a general outline a turn in a Clash and what you can do in it:
 	- Actions
 - End Step: the end of the turn, until end of turn effects stop at the end of this step
 
-### Narrative Actions
+## The Breath Step
+
+The Breath Step, as the name implies, is the first step in your turn and is when you "take a breather"
+
+First you unExhaust all your Scene Elements, allowing them to be used again (see the Attack section). Every character gains back their Reaction, then you gain your Action and finally you have the chance to Activate a Scene Element. In most cases the order of these steps is irrelevant, but it's important to know actual timing. The only real decision is which Scene Element to Activate
+
+While outside of a Clash, your character has all time they need to call upon their knowledge, skills, tools and creativity to solve a situation. This is not the case inside a Clash, where time to gather your resources is needed. You start with all your Traits and Items Inactive, which you can picture as you keeping them in your hand. Then, once during each Breath Step you can Activate one, only then you can use them to Attack, Study, Improvise Rolls, use their abilities and so on 
+
+Some Scene Elements require you to be particularly focused and engaged in the Clash to activate: these have an Activation Focus Cost which you must be able to pay to Activate them. Conversely, some SE have a Focus Value. If the total Focus Value of your Activated Items is equal or higher than the Activation Focus Cost of an Item, you may Activate it
+
+SE with no special rules have a Focus Value of 1. Noteworthy is that this is the case of Traits, meaning that even in the direst situations where you cannot gain any Focus Value from the Props in the Clash you will always at least manage to get a Focus Value equal to the Traits you carry yourself (given enough turns obviously)
+
+Some specific SE, mainly Items, can also have abilities that require Focus Value to use, usually indicated by a number in the costs to activate such as {2}. To pay for these you must actually Exhaust SE for a combined Value equal or greater to the cost. Excess Value provided is kept until your next turn. See the Item section for more 
+## Narrative Actions
 
 During your turn in a Clash you are free to do as many actions that do not interact with the rules AND would not require a Roll as you want. These are called Narrative Actions and include minor tasks that are not too mentally or mechanically challenging: 
 - moving a small distance in the game world
@@ -206,15 +219,37 @@ To Study you do everything you would while Attacking: choose a target, briefly d
 
 On a success you won't deal any Damage but you learn a Secret about the target. Secrets held by Scene Elements are usually just hidden effects waiting to be revealed, while those held by characters tend to be narrative only. If the target has no Secret left you will also learn that
 
-You can specify what you're trying to learn giving clues and hints you . This is called Investigating and has a few extra rules. Some Secrets can only
+You can specify what you're trying to learn giving clues and hints you have gathered to earn up to 2 BD in the Study's Roll. This is called Investigating and has a few extra rules. Some Secrets can only be learnt by Investigating them, using the generic Study will result in you (wrongly) learning the target has no Secrets left. However, if you Investigate a target and they have no Secrets that match the Investigation you won't learn anything (note: you will know that this action failed because of this instead of learning they have no Secrets)
 
-However, during your turn you will most often do one of two things: Activate a Scene Element and Attack. Activating a Scene Element means that you put conscious effort to exploit a Trait, Prop or Item to give you an edge in the battle, you can represent this by placing a physical card in front of you in the vertical position. If in a normal Roll you can Improvise using any SE you have access to, during a Clash only the ones you have activated can be Exhausted (see below). This is to represent the rising action of a tense battle, conversation, infiltration and so on, where you gradually build up momentum in the fight
+**Controlling a Clash Props:** *I swing on the chandelier to kick that guy in the teeth. I'd like to stand still on the empty armor stand to sneak unnoticed by that guard*
 
-Some Scene Elements require you to be particularly focused and engaged in the Clash to activate: these have an Activation Cost which you must be able to pay to Activate them. To meet these you simply need to have already Active SE with a combined Value equal or greater than the Requirement. Some Items directly tell you how much Value they provide. Unless stated otherwise, SE with no special rules, such as Traits or Props, have a value of 1, which can be also shortened to {add 1}. Some specific SE, mainly Items, can also have abilities that require Value to activate, usually indicated by a number in the costs to activate, such as {2}. To pay for these you must actually Exhaust SE for a combined Value equal or greater to the cost. Excess Value provided is kept until your next turn. See the Item section for more
-  
-Since you will want as many Scene Elements down as possible, and you will probably want to use all the Items you have available, this might create situations that seem totally nonsensical. For example you may gain the Flying ability while engaging in a debate, which obviously makes no physical sense. As always the rules of this game are just abstractions. Having Flying in a conversation may just represent having a position so utterly unbreakable that you can’t be challenged by normal means. 
+Clash Props (CPs) are Scene Elements, specifically Props, which are inherent to a single Clash location. Like normal Props, you can use them for Focus Value or to get BD during Attacks. However to do so you must Control them. Controlling a CP represent being in an advantageous position regarding it: being on top of a defensive wall, or holding onto an hostage. 
 
-It may also happen that you will want to use your Thunder Hammer during a stealth sequence. In every Roll you are encouraged to get creative with the use of your Items, more so in a Major Clash since most have powerful abilities that only apply in them, so get creative! Your Thunder Hammer can be used in seduction: *I vigorously lift the weapon, grunting and sweeping the resulting sweat off my forehead* is an excellent use of roleplay. Or it can be used in “friendly” conversation as a threat: *I waive my lightning cracking hammer to show this fool that if things were to go south, I would be happy to employ other means. 
+By default, a CP that is Uncontrolled can be Controlled as an Action, which may require a Roll as gaining their control is never a secure thing. Each CP has a numer called Capacity, which determines how many characters can Control it at the same time. If you need to make a Roll to get Control of a CP while other allied characters are Controlling it, you get 1 BD for it
+
+Note: This Roll is usually done against the creator of CP. Recall that in this game *every* Roll is done against another character. 
+
+If you instead try to Control a CP Controlled by an enemy character, the Roll you make may be done against it instead. You do whichever has the highest Difficulty. On a success you also gain Control of the CP, and if this makes the Prop go over its Capacity you can Push Off that enemy Character, which stops Controlling it. While Controlling a CP you can also try to Push Off characters by using the Controlling a Clash Prop Action again, which again usually results in you Rolling against them 
+
+Once Controlled, CPs work like any other Prop. Additionally, while they can perfectly just be narrative pieces with no additional rules, most have special effects that may change how to get Control of them, what happens if you are Pushed Off, specific bonuses to Control them. All of which you may not know until you interact with it or until you Study them
+
+**Making Generic a Roll:** while the other Actions cover basically you can or might even want to do in a Clash, there are still situations and absurd things that could step outside these rulings. All of them fall under Generic Rolls
+
+This Action represents your character trying to de-escalate a fight, or conversely trying to punch someone mid discussion or fully just deciding to flee. These are all behaviors that, done outside a Clash would require a Roll since their success is far from certain, but again are not encompassed by the other Actions
+
+For these Rolls all rules that normally apply both to Rolls and to Clashes apply, mainly the fact that you can only use your Active Items to Improvise
+
+## Timing Rules
+
+
+
+>**Designer's note, or an important note on role vs playing and how to marry this bickering lot:** Clashes are obviously a part of the story, in fact they should and usually are their highest points. Every game has to decide where it wants to lie in the spectrum between narrative first and gameplay first. Do design it in a way where the players have basically free reign for the purpose of writing an interesting narrative? Or you do enforce stricter rules so that the gameplay itself is fun and real tension can be felt?
+>
+>We want both sides to shine and Clashes are a way of encapsulating all the mechanical "crunch" that can be so so fun in a box where it should touch the narrative only in the begging and its end. While Clashes can be used to represent everything, the idea is for them to use the same rules, have the same crescendo and interesting decisions wether the players are killing a dragon or trying to bring it to their side (the objective might even go back and forth between them mid Clash)
+>
+>This is all to say that while the rules are always an abstraction of the narrative, in a Clash this abstraction should straight up become a wargame. Clashes are moments where we stop looking at the puppets to just have fun pulling strings, while we keep them in our minds. Try to not think too much about why Exhausting a broadsword can help you infiltrate a castle. Why using your "Elven Lineage" is giving a BD to resist being tricked, and so on. Why are my "Thieve's Tools" able to steal away a character's ability to use telepathy type of situations
+>
+>You can, even should when convenient, try insert the use of Scene Elements and their abilities into the narrative, but do not fret if they do not make any sense. Outside of Clashes, the narrative is King and drives the show, inside them it makes total sense for your Colossus Hammer to help you in stealth infiltration. They are ways to decide who the winner of a tense back and forth confrontation is, not what drives it or what the results will be
 
 # WP & Damage
 
