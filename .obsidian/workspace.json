@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/daily-notes/2025-10-03.md",
+                "file": "magic/edh-decks/Ghryson Starn's High Noon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-03"
+              "title": "Ghryson Starn's High Noon"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,9 +186,17 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "d467cdce109d697e",
+  "active": "7abb94e87b23a1c8",
   "lastOpenFiles": [
+    "magic/edh-decks/Magnus Biden Blast.md",
+    "magic/edh-decks/Radha Ramp.md",
+    "magic/edh-decks/Ghryson Starn's High Noon.md",
+    "magic/edh-decks/Clavileno Sac.md",
+    "magic/edh-decks/Yuriko Stabs Everyone.md",
+    "magic/edh-decks/Untitled",
     "personal/tasks.md",
+    "magic/edh-decks",
+    "personal/daily-notes/2025-10-04.md",
     "personal/daily-notes/2025-10-03.md",
     "ttrpg/Core/Items.md",
     "magic/custom/Cards.md",
@@ -217,15 +225,7 @@
     "phd/Notes/Probability/Basics.md",
     "phd/Notes/Probability/Entropy, KL Distance & Information Bottleneck.md",
     "phd/Notes/Probability/Log Trick and Reinforce.md",
-    "2025-09-30-Tuesday.md",
-    "phd/Notes/NER/Unsupervised/Rationale/HardKuma.md",
-    "phd/Notes/NER/Unsupervised/Rationale/Rationale Selection in NLP.md",
-    "phd/Notes/NER/Unsupervised/Rationale/Rationalizing Neural Predictions.md",
-    "personal/daily-notes/2025-10-1.md",
-    "personal/spesa.md",
     "phd/Courses/english-4-sciencitifc-writing-ll4",
-    "phd/Courses/multi-objective/esame.ipynb",
-    "phd/Courses/multi-objective/25-2/MOO_references/Course Evolutionary Systems and algortihms/382-S18-9-DiscreteDynamicalSystems-1.pdf",
     "phd/Amministrazione/ACDL/Certificato.jpeg",
     "phd/Amministrazione/ACDL/Scontrini.jpeg",
     "phd/Amministrazione/ACDL/Iscrizione.png",
