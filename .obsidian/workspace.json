@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +211,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "6e0bf1a2c470396e",
+  "active": "7abb94e87b23a1c8",
   "lastOpenFiles": [
     "ttrpg/Core/Items.md",
     "ttrpg/Additions/Peculiar Items.md",
