@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 354.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +189,11 @@
   },
   "active": "d467cdce109d697e",
   "lastOpenFiles": [
-    "ttrpg/Core/Items.md",
     "ttrpg/Additions/Peculiar Items.md",
-    "ttrpg/Additions/Additional Rules.md",
+    "personal/daily-notes/2025-10-05.md",
     "ttrpg/Core/Characters & Core Rules.md",
+    "ttrpg/Core/Items.md",
+    "ttrpg/Additions/Additional Rules.md",
     "magic/edh-decks/Ghryson Starn's High Noon.md",
     "magic/edh-decks/Magnus Biden Blast.md",
     "magic/edh-decks/Radha Ramp.md",
@@ -224,7 +226,6 @@
     "phd/Notes/General/Misc.md",
     "phd/Notes/General/Manifold Latent Spaces.md",
     "phd/Notes/General/Disentanglement.md",
-    "phd/Notes/Probability/Bayesian vs Classical view.md",
     "phd/Courses/english-4-sciencitifc-writing-ll4",
     "phd/Amministrazione/ACDL/Certificato.jpeg",
     "phd/Amministrazione/ACDL/Scontrini.jpeg",
