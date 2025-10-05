@@ -5,5 +5,6 @@
   "creases",
   "templater-obsidian",
   "obsidian-livesync",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-regex-replace"
 ]
